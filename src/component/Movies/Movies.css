@@ -1,0 +1,22 @@
+.movieitem {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    /* padding: 40px 20px; */
+    padding: 24px 0;
+    border-radius: 8px;
+    position: relative;
+    overflow: hidden;
+    background-color: #fff;
+    margin: 10px 20px;
+    width: 600px;
+    align-items: center;
+}
+
+.poster {
+    align-self: center;
+    box-sizing: border-box;
+    height: 18em;
+    width: 12em;
+}
