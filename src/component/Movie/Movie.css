@@ -3,7 +3,9 @@
     flex-direction: column;
     background-color: antiquewhite;
     padding: 2%;
-    margin: 2% 15%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
     font-family: 'Acme', sans-serif;
     border: 1px solid rgba(218, 139, 139, 0.2);
     box-shadow: 5px 5px 5px 5px rgba(134, 2, 2, 0.2);
