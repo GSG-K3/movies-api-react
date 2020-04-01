@@ -4,6 +4,8 @@ import './App.css';
 
 import Movies from './component/Movies/Movies';
 
+
+
 class App extends Component {
     constructor(props) {
         super(props)
