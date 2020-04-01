@@ -1,0 +1,16 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.main-heading {
+    font-size: 50px;
+    margin: 2% 0;
+    font-family: 'Pacifico', cursive;
+    color: rgba(70, 44, 44, 0.952);
+    text-decoration: underline;
+    text-align: center;
+}

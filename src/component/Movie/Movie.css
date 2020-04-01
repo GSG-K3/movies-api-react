@@ -1,0 +1,43 @@
+.movie-container {
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    padding: 2%;
+    margin: 2% 15%;
+    font-family: 'Acme', sans-serif;
+    border: 1px solid rgba(218, 139, 139, 0.2);
+    box-shadow: 5px 5px 5px 5px rgba(134, 2, 2, 0.2);
+}
+.movie-container:hover {
+    transform: scale(1.05);
+    transition: transform 0.25s ease-out;
+}
+.heading {
+    font-family: 'Concert One', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: rgba(70, 44, 44, 0.952);
+}
+
+.poster {
+    width: 220px;
+    height: 300px;
+    margin: 2% 0;
+    align-self: center;
+}
+
+.overview {
+    text-align: center;
+    font-size: 20px;
+}
+
+.rating {
+    font-size: 2em;
+    color: rgba(70, 44, 44, 0.952);
+    font-weight: 4px;
+}
+
+ul {
+    list-style: none;
+  }
+  
